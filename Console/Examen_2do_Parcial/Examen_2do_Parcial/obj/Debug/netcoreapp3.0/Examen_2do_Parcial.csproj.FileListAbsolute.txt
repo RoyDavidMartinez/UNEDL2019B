@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\bin\Debug\netcoreapp3.0\Examen_2do_Parcial.exe
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\bin\Debug\netcoreapp3.0\Examen_2do_Parcial.deps.json
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\bin\Debug\netcoreapp3.0\Examen_2do_Parcial.runtimeconfig.json
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\bin\Debug\netcoreapp3.0\Examen_2do_Parcial.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\bin\Debug\netcoreapp3.0\Examen_2do_Parcial.dll
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\bin\Debug\netcoreapp3.0\Examen_2do_Parcial.pdb
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\obj\Debug\netcoreapp3.0\Examen_2do_Parcial.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\obj\Debug\netcoreapp3.0\Examen_2do_Parcial.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\obj\Debug\netcoreapp3.0\Examen_2do_Parcial.AssemblyInfo.cs
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\obj\Debug\netcoreapp3.0\Examen_2do_Parcial.dll
+C:\Users\USER\source\repos\Examen_2do_Parcial\Examen_2do_Parcial\obj\Debug\netcoreapp3.0\Examen_2do_Parcial.pdb
