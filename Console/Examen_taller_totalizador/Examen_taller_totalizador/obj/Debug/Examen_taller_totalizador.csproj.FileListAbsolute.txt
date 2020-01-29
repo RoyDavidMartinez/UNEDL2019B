@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\obj\Debug\Examen_taller_totalizador.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\obj\Debug\Examen.Form1.resources
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\obj\Debug\Examen_taller_totalizador.Properties.Resources.resources
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\obj\Debug\Examen_taller_totalizador.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\bin\Debug\Examen_taller_totalizador.exe.config
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\bin\Debug\Examen_taller_totalizador.exe
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\bin\Debug\Examen_taller_totalizador.pdb
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\obj\Debug\Examen_taller_totalizador.exe
+C:\Users\USER\source\repos\Examen_taller_totalizador\Examen_taller_totalizador\obj\Debug\Examen_taller_totalizador.pdb
